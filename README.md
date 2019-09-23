@@ -16,13 +16,16 @@ A few notes:
 
 ## Usage and Installation
 
+To use this, make a copy of the ```duck_t``` folder and rename it with the first four letters of your last name and your first initial. (Example: Tyler Duckworth = ```duck_t```)
+
+You will complete the exercises in this course in the different folders. 
 
 ## Organization of Course
 
 
-This will be a project-based course, meaning you will learn the skills necessary to complete a project (basically, a unit). There are five main projects in this course.
+This will be a project-based course, meaning for each module you will learn the skills necessary to complete a project (basically, a unit). There are five main projects in this course.
 
-- Reading Your Computer's Stats (Basic Python)
+- Reading and Writing To A File (Basic Python)
 - Build an Abstract Robot (Objects)
 - Build a Basic Robot (RobotPy)
 - Build a Normal Robot (Project Structure, Robot Frameworks)
